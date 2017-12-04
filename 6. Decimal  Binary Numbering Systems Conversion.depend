@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512159432 source:c:\users\c00210415\desktop\codeblocks 2 year\6. decimal  binary numbering systems conversion\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<math.h>
+	<iomanip>
+
